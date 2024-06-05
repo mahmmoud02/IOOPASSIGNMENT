@@ -1,0 +1,14 @@
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\bin\Debug\final project 2.0.exe.config
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\bin\Debug\final project 2.0.exe
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\bin\Debug\final project 2.0.pdb
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final project 2.0.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final_project_2._0.Form1.resources
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final_project_2._0.Properties.Resources.resources
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final project 2.0.csproj.GenerateResource.cache
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final project 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final project 2.0.exe
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final project 2.0.pdb
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final_project_2._0.AdminMainDashboard.resources
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final_project_2._0.CustomerMainDashboard.resources
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final_project_2._0.ManagerMainDashboard.resources
+C:\Users\Mahmoud\OneDrive - Asia Pacific University\YEAR 1\SEM 2\COURSES\IOOP\ASSIGNMENT\final project 2.0\obj\Debug\final_project_2._0.WorkerMaindashboard.resources
